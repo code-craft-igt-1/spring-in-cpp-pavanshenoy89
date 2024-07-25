@@ -1,5 +1,6 @@
 #include "stats.h"
 #include <algorithm>
+#include<numeric>
 
 namespace Statistics {
     
